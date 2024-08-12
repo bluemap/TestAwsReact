@@ -32,3 +32,5 @@ $ npm start
 > Note: The resources in `public` directory will be completely copied to the `output` directory during the build phase, and the filename will not be changed.
 
 For more detail, please visit [docs](https://v3.ice.work/).
+## 说明
+.npmrc 用来配置项目的registry，不配置的话默认使用(~/.npmrc)系统配置
